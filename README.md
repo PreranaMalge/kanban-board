@@ -29,3 +29,8 @@ Follow these steps to run the application on your local machine.
 1. Clone the repository:
    ```bash
    git clone https://github.com/PreranaMalge/kanban-board.git
+
+## Hoisted url
+
+https://kanban-board-pm.netlify.app/
+   
